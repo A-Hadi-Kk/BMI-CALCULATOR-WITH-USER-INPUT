@@ -1,6 +1,6 @@
 {
   "name": "ahk-bmi-calculator-with-user-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculate your bmi by inputting your height and weight",
   "main": "index.js",
   "type": "module",
